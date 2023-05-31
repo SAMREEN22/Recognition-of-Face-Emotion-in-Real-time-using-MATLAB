@@ -9,3 +9,9 @@ We created our own dataset with 150 snaps for each emotion. Further
 training and testing of the model are done on our own newly created dataset.
 ![RESEARCh PAPER pdf and 1 more page - Personal - Microsoft​ Edge 31-05-2023 12_59_58](https://github.com/SAMREEN22/Recognition-of-Face-Emotion-in-Real-time-using-MATLAB/assets/65328605/f115c89d-3fdf-4ea1-998b-eb9f21d08574)
 ![RESEARCh PAPER pdf and 1 more page - Personal - Microsoft​ Edge 31-05-2023 13_00_06](https://github.com/SAMREEN22/Recognition-of-Face-Emotion-in-Real-time-using-MATLAB/assets/65328605/fcc4c67a-a3a9-4156-a0a7-07a5e521d8d0)
+
+
+Here is our Final Model Working Video:
+
+https://github.com/SAMREEN22/Recognition-of-Face-Emotion-in-Real-time-using-MATLAB/assets/65328605/b42b5813-3e11-4d0f-b418-abd4b160d473
+
